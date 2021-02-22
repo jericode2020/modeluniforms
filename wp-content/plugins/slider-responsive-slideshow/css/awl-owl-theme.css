@@ -75,5 +75,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(AjaxLoader.gif) no-repeat center center
+	background: url(https://jericode2020.github.io/modeluniforms/wp-content/plugins/slider-responsive-slideshow/css/AjaxLoader.gif) no-repeat center center
 }
